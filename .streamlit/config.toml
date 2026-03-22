@@ -1,0 +1,17 @@
+# ============================================================
+# Streamlit Theme Configuration
+# ============================================================
+
+[theme]
+primaryColor        = "#6C63FF"        # Soft purple – calming, mental-health-appropriate
+backgroundColor     = "#0F0F1A"        # Deep dark background
+secondaryBackgroundColor = "#1A1A2E"   # Sidebar / cards
+textColor           = "#E8E8F0"        # Off-white text
+font                = "sans serif"
+
+[server]
+runOnSave           = true
+maxUploadSize       = 50
+
+[browser]
+gatherUsageStats    = false
