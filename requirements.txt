@@ -11,3 +11,6 @@ httpx
 torch --index-url https://download.pytorch.org/whl/cpu
 transformers
 tokenizers
+requests
+authlib
+python-jose[cryptography]
