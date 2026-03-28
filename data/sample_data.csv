@@ -1,0 +1,13 @@
+session_id,timestamp,emotion,emotion_score,risk_level,message
+demo-session-001,2024-03-10 09:15:00,sadness,0.82,MEDIUM,"I've been feeling really down lately, nothing seems to bring me joy"
+demo-session-001,2024-03-10 09:18:00,anxiety,0.76,LOW,"I keep worrying about work deadlines and can't sleep properly"
+demo-session-001,2024-03-10 09:25:00,sadness,0.71,LOW,"I miss my friends, I feel so alone sometimes"
+demo-session-001,2024-03-11 10:05:00,anger,0.68,LOW,"My coworker took credit for my project again, I'm so frustrated"
+demo-session-001,2024-03-11 10:12:00,anxiety,0.84,MEDIUM,"I feel hopeless about the future, what's even the point"
+demo-session-001,2024-03-12 08:30:00,neutral,0.55,LOW,"Had coffee this morning, trying to take it one day at a time"
+demo-session-001,2024-03-12 08:45:00,happiness,0.72,LOW,"My dog did something funny today, it made me smile"
+demo-session-001,2024-03-13 09:00:00,anxiety,0.91,MEDIUM,"I can't cope with all this pressure, I feel like I'm breaking down"
+demo-session-001,2024-03-13 09:10:00,sadness,0.65,LOW,"I cried in the bathroom today, didn't want anyone to see"
+demo-session-001,2024-03-14 11:20:00,happiness,0.78,LOW,"Went for a walk in the park, nature really helps clear my head"
+demo-session-001,2024-03-15 07:45:00,neutral,0.60,LOW,"Another Monday. Just taking it slow today"
+demo-session-001,2024-03-15 08:00:00,happiness,0.85,LOW,"I finished a painting I've been working on for weeks, really proud"
